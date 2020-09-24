@@ -1,3 +1,3 @@
-<h1> Hello, Simple DevOps CI/CD Project  !!   </h1>
-<h2> Deployment on Containers Throug the Ansible server </h2>
-<h2> it is completely automated tasks, keep it up dear </h2>
+<h1> Hello,it is a Automated simple DevOps CI/CD Project !!   </h1>
+<h2> Deployed on Kubernetes clusterwith jenkins </h2>
+<h2>task is part of OLX hiring process</h2>
